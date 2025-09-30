@@ -2,7 +2,7 @@
 
 This project demonstrates how to build and evaluate a Decision Tree Classifier to predict different types of citrus fruits based on their features.
 
-Project Overview
+# Project Overview
 
 Objective: Classify citrus fruits (e.g., orange, lemon, grapefruit, mandarin) using machine learning.
 
@@ -10,7 +10,7 @@ Algorithm Used: Decision Tree Classifier from scikit-learn.
 
 Dataset: A dataset of citrus fruit features such as mass, width, height, and color score.
 
-Installation & Requirements
+# Installation & Requirements
 
 Make sure you have the following installed:
 
@@ -35,7 +35,7 @@ README.md → Project documentation.
 
 (Optional) Dataset file (if not included, instructions below explain how to download or generate it).
 
-How to Run
+# How to Run
 
 Clone the repository or download the notebook.
 
@@ -55,13 +55,13 @@ Visualize the tree structure.
 
 Evaluate accuracy and performance.
 
-Results
+# Results
 
 Decision Tree successfully classifies citrus fruits based on their physical and color features.
 
 Performance metrics (accuracy, confusion matrix) are displayed in the notebook.
 
-Visualizations
+# Visualizations
 
 Feature distributions
 
@@ -77,8 +77,8 @@ Compare with other models (Random Forest, SVM, Logistic Regression).
 
 Deploy as a simple API or web app.
 
-Acknowledgements
+# Acknowledgements
 
 Libraries: scikit-learn, pandas, numpy, matplotlib
 
-Author: Sahil Rajendra Palshetkar.
+# Author: Sahil Rajendra Palshetkar.
